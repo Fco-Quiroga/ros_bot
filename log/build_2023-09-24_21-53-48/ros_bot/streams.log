@@ -1,0 +1,29 @@
+[0.015s] Invoking command in '/home/robotica/ros_bot/ros_bot/build/ros_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robotica/ros_bot/ros_bot/build/ros_bot -- -j12 -l12
+[0.068s] Invoked command in '/home/robotica/ros_bot/ros_bot/build/ros_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robotica/ros_bot/ros_bot/build/ros_bot -- -j12 -l12
+[0.099s] Invoking command in '/home/robotica/ros_bot/ros_bot/build/ros_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robotica/ros_bot/ros_bot/build/ros_bot
+[0.111s] -- Install configuration: ""
+[0.112s] -- Execute custom install script
+[0.113s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/config/empty.yaml
+[0.113s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/config/view_bot.rviz
+[0.113s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/description/inertial_macros.xacro
+[0.114s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/description/robot.urdf.xacro
+[0.114s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/description/robot_core.xacro
+[0.114s] -- Symlinking: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/launch/launch_sim.launch.py
+[0.129s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/launch/rsp.launch.py
+[0.130s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/worlds/empty.world
+[0.130s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ament_index/resource_index/package_run_dependencies/ros_bot
+[0.131s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ament_index/resource_index/parent_prefix_path/ros_bot
+[0.131s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/environment/ament_prefix_path.sh
+[0.131s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/environment/ament_prefix_path.dsv
+[0.132s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/environment/path.sh
+[0.132s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/environment/path.dsv
+[0.133s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/local_setup.bash
+[0.133s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/local_setup.sh
+[0.133s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/local_setup.zsh
+[0.134s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/local_setup.dsv
+[0.134s] -- Symlinking: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/package.dsv
+[0.151s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ament_index/resource_index/packages/ros_bot
+[0.152s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/cmake/ros_botConfig.cmake
+[0.152s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/cmake/ros_botConfig-version.cmake
+[0.152s] -- Up-to-date symlink: /home/robotica/ros_bot/ros_bot/install/ros_bot/share/ros_bot/package.xml
+[0.155s] Invoked command in '/home/robotica/ros_bot/ros_bot/build/ros_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robotica/ros_bot/ros_bot/build/ros_bot

@@ -1,0 +1,9 @@
+/home/robotica/ros_bot/ros_bot/build/ros_bot/CMakeFiles/uninstall.dir
+/home/robotica/ros_bot/ros_bot/build/ros_bot/CMakeFiles/ros_bot_uninstall.dir
+/home/robotica/ros_bot/ros_bot/build/ros_bot/CMakeFiles/test.dir
+/home/robotica/ros_bot/ros_bot/build/ros_bot/CMakeFiles/edit_cache.dir
+/home/robotica/ros_bot/ros_bot/build/ros_bot/CMakeFiles/rebuild_cache.dir
+/home/robotica/ros_bot/ros_bot/build/ros_bot/CMakeFiles/list_install_components.dir
+/home/robotica/ros_bot/ros_bot/build/ros_bot/CMakeFiles/install.dir
+/home/robotica/ros_bot/ros_bot/build/ros_bot/CMakeFiles/install/local.dir
+/home/robotica/ros_bot/ros_bot/build/ros_bot/CMakeFiles/install/strip.dir

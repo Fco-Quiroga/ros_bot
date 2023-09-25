@@ -1,0 +1,1 @@
+/home/robotica/ros_bot/ros_bot/launch/launch_sim.launch.py
